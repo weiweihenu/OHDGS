@@ -1,0 +1,10 @@
+imageio
+open3d
+plyfile
+torchmetrics
+huggingface_hub
+opencv-python
+numba
+timm
+submodules/simple-knn/
+submodules/diff-gaussian-rasterization-confidence/
